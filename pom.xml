@@ -13,7 +13,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.organization>Vaadin Ltd</project.organization>
 		<license.short.name>apache2</license.short.name>
-		<vaadin.version>7.7.28</vaadin.version>
+		<vaadin.version>7.7.36</vaadin.version>
 		<vaadin.plugin.version>7.7.6</vaadin.plugin.version>
 		<snapshot.repository.url>http://oss.sonatype.org/content/repositories/vaadin-snapshots/</snapshot.repository.url>
 		
